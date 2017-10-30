@@ -23,7 +23,7 @@ TwitterAgent.sinks = HDFS
   
 # Describing/Configuring the source 
 TwitterAgent.sources.Twitter.type = com.cloudera.flume.source.TwitterSource
-TwitterAgent.sources.Twitter.consumerKey =ry5wBJDVhkAqWAnnEOJrkqJcn
+TwitterAgent.sources.Twitter.consumerKey = *************
 TwitterAgent.sources.Twitter.consumerSecret = ***********
 TwitterAgent.sources.Twitter.accessToken = **************
 TwitterAgent.sources.Twitter.accessTokenSecret = **********
